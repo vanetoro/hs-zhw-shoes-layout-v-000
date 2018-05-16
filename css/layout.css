@@ -36,6 +36,7 @@
   box-sizing: border-box;
   float: left;
   height: auto;
+  display: inline-block;
 }
 
 .col-3{
@@ -45,6 +46,7 @@
   float: left;
   box-sizing: border-box;
   height: auto;
+  display: inline-block;
 }
 
 .first{
