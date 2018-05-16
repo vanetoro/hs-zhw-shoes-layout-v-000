@@ -45,6 +45,7 @@
   margin-top: 0;
   float: left;
   height: auto;
+  box-sizing: border-box;
 }
 
 .first{
